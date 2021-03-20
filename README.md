@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
 </details>
 
 [instagram]: https://www.instagram.com/qwch04/
