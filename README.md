@@ -1,8 +1,8 @@
 ### Hi there, I'm Qweffy  👋
 
-## I'm a Full Stack Developer!!
+## I'm a Full Stack Developer!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 
 ### Spotify Playing 🎧
 
