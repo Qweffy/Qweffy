@@ -41,6 +41,9 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/Qweffy/Nasa/issues/2) in [Qweffy/Nasa](https://github.com/Qweffy/Nasa)
+2. 🎉 Merged PR [#2](https://github.com/Qweffy/Nasa/pull/2) in [Qweffy/Nasa](https://github.com/Qweffy/Nasa)
+<!--END_SECTION:activity-->
 
 ---
 
