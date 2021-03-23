@@ -45,12 +45,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+
+  ### :zap: GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&theme=dracula)
 
-</details>
 
 [instagram]: https://www.instagram.com/qwch04/
 [linkedin]: https://www.linkedin.com/in/nicolas-mastakas-full-stack-developer/
