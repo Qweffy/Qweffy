@@ -37,7 +37,6 @@
 <br />
 
 ---
----
 
 ### :zap: Recent Activity
 
