@@ -41,8 +41,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Qweffy/challangeAlkemy/pull/5) in [Qweffy/challangeAlkemy](https://github.com/Qweffy/challangeAlkemy)
-2. 💪 Opened PR [#5](https://github.com/Qweffy/challangeAlkemy/pull/5) in [Qweffy/challangeAlkemy](https://github.com/Qweffy/challangeAlkemy)
+1. 💪 Opened PR [#6](https://github.com/Qweffy/challangeAlkemy/pull/6) in [Qweffy/challangeAlkemy](https://github.com/Qweffy/challangeAlkemy)
+2. 🎉 Merged PR [#5](https://github.com/Qweffy/challangeAlkemy/pull/5) in [Qweffy/challangeAlkemy](https://github.com/Qweffy/challangeAlkemy)
 <!--END_SECTION:activity-->
 
 ---
