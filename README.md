@@ -41,8 +41,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Qweffy/Nexter/pull/6) in [Qweffy/Nexter](https://github.com/Qweffy/Nexter)
-2. 💪 Opened PR [#6](https://github.com/Qweffy/Nexter/pull/6) in [Qweffy/Nexter](https://github.com/Qweffy/Nexter)
+1. 🎉 Merged PR [#7](https://github.com/Qweffy/Nexter/pull/7) in [Qweffy/Nexter](https://github.com/Qweffy/Nexter)
+2. 💪 Opened PR [#7](https://github.com/Qweffy/Nexter/pull/7) in [Qweffy/Nexter](https://github.com/Qweffy/Nexter)
 <!--END_SECTION:activity-->
 
 ---
