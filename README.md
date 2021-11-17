@@ -18,7 +18,6 @@
 - 📫 How to reach me: **nicolasmastakas@gmail.com**
 
 - ⚡ Fun fact **I'm a cat lover**
-- 
 <br />
 
 <h3 align="left">Connect with me:</h3>
