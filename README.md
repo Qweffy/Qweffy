@@ -46,7 +46,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qweffy&theme=onedark&title=Stars,Followers" alt="qweffy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qweffy&theme=onedark" alt="qweffy" /></a> </p>
 
 - 🔭 I’m currently working on [Lessen](https://www.lessen.com/)
 
@@ -82,6 +82,7 @@
 <!--END_SECTION:activity-->
 
 ---
+
 
 ### :zap: GitHub Stats</summary>
 
