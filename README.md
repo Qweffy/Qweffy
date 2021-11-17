@@ -9,11 +9,9 @@
 
 
 
-
-
 - 🔭 I’m currently working on [Lessen](https://www.lessen.com/)
 
-- 🌱 I’m currently learning **Cs degree on Cloud Administration!**
+- 🌱 I’m currently studying **Cloud Administration degree!**
 
 - 📫 How to reach me: **nicolasmastakas@gmail.com**
 
