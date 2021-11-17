@@ -13,7 +13,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<!-- <br />
 
 ### Languages and Tools:
 
@@ -34,7 +34,7 @@
 <img align="left" alt="Sequalize" width="35px" src="https://lh3.googleusercontent.com/proxy/CgCv8FJXRMZzScu6VwbkPps1bvIDSdEzJ39VWuLFIIEqDuvKPihnD9uTD-imr1KX4kknuqK4eEKPTJ-MzF1DH7Xy8cQ0SrEg" />
 
 <br />
-<br />
+<br /> -->
 
 ---
 
