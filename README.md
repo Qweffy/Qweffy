@@ -7,6 +7,7 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-qweffy.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 ### Connect with me:
 
