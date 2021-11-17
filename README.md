@@ -38,22 +38,6 @@
 
 ---
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Qweffy/Counter-App/pull/1) in [Qweffy/Counter-App](https://github.com/Qweffy/Counter-App)
-2. 💪 Opened PR [#1](https://github.com/Qweffy/Counter-App/pull/1) in [Qweffy/Counter-App](https://github.com/Qweffy/Counter-App)
-<!--END_SECTION:activity-->
-
----
-
-### :zap: GitHub Stats</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&theme=dracula)
-
-[instagram]: https://www.instagram.com/qwch04/
-[linkedin]: https://www.linkedin.com/in/nicolas-mastakas-full-stack-developer/
-
 
 
 
@@ -89,3 +73,21 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/i9mg7d25h2kcnr6yjeu2h7hox)
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Qweffy/Counter-App/pull/1) in [Qweffy/Counter-App](https://github.com/Qweffy/Counter-App)
+2. 💪 Opened PR [#1](https://github.com/Qweffy/Counter-App/pull/1) in [Qweffy/Counter-App](https://github.com/Qweffy/Counter-App)
+<!--END_SECTION:activity-->
+
+---
+
+### :zap: GitHub Stats</summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&theme=dracula)
+
+[instagram]: https://www.instagram.com/qwch04/
+[linkedin]: https://www.linkedin.com/in/nicolas-mastakas-full-stack-developer/
+
+
