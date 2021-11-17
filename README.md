@@ -30,7 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qweffy&show_icons=true&locale=en&layout=compact" alt="qweffy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&locale=en" alt="qweffy" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&locale=en" alt="qweffy" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qweffy&" alt="qweffy" /></p>
 
@@ -50,7 +50,7 @@
 
 ### :zap: GitHub Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&theme=dark)
 
 [instagram]: https://www.instagram.com/qwch04/
 [linkedin]: https://www.linkedin.com/in/nicolas-mastakas-full-stack-developer/
