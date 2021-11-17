@@ -1,14 +1,12 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=qweffy&label=Profile%20views&color=0e75b6&style=flat" alt="qweffy" /> </p>
 
-### Hi there, I'm Qweffy 👋
+<!-- ### Hi there, I'm Qweffy 👋
 
 ## I'm a Full Stack Developer!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything -->
 
-### Spotify Playing 🎧
 
-[![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/i9mg7d25h2kcnr6yjeu2h7hox)
 
 <!-- ### Connect with me:
 
@@ -87,3 +85,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qweffy&show_icons=true&locale=en" alt="qweffy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qweffy&" alt="qweffy" /></p>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/i9mg7d25h2kcnr6yjeu2h7hox)
