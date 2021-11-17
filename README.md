@@ -27,7 +27,8 @@
 
 
 <br />
-#### Top Technologies
+
+<h3 align="center">Top Technologies</h3>
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![React Badge](https://img.shields.io/badge/-ReactNative-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
