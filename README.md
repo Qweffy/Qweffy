@@ -8,11 +8,11 @@
 
 [![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/i9mg7d25h2kcnr6yjeu2h7hox)
 
-### Connect with me:
+<!-- ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+ -->
 <!-- <br />
 
 ### Languages and Tools:
