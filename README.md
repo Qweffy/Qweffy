@@ -75,6 +75,6 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qweffy&theme=matrix&title=Join,Commits,PullRequest,Stars,Repositories,Followers" alt="qweffy" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qweffy&theme=matrix&title=Join,Commits,PullRequest,Stars,Repositories,Followers" alt="qweffy" /></a> </p> -->
 
 
