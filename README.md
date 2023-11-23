@@ -7,12 +7,6 @@
 
 Feel free to reach out for any inquiries or collaborations:
 
-<a href="mailto:nicolasmastakas@gmail.com">
-  <img alt="Nico's Email" width="22px" style="vertical-align:middle;" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-  nicolasmastakas@gmail.com
-</a>
-&nbsp;|&nbsp;
-<a href="https://www.linkedin.com/in/nico-mastakas-react-native-developer/">
-  <img alt="Nico's LinkedIn" width="22px" style="vertical-align:middle;" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-  Nico Mastakas
-</a>
+| | |
+| --- | --- |
+| <a href="mailto:nicolasmastakas@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="22px" /> nicolasmastakas@gmail.com</a> | <a href="https://www.linkedin.com/in/nico-mastakas-react-native-developer/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22px" /> Nico Mastakas</a> |
