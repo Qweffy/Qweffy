@@ -12,7 +12,7 @@ Feel free to reach out for any inquiries or collaborations:
   nicolasmastakas@gmail.com
 </a>
 &nbsp;|&nbsp;
-<a align='center' href="https://www.linkedin.com/in/nico-mastakas-react-native-developer/">
+<a href="https://www.linkedin.com/in/nico-mastakas-react-native-developer/">
   <img alt="Nico's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   Nico Mastakas
 </a>
