@@ -17,6 +17,7 @@ Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile a
 > The best places to see how I structure code, test, and build UI.
 
 - 🏆 **[Tether WDK Wallet](https://github.com/Qweffy/tether-wdk-challenge)** — Non-custodial mobile wallet built on the Tether Wallet Development Kit. Biometric unlock, Secure-Enclave key storage, multi-asset (USD₮ / BTC / XAU₮). `React Native` · `TypeScript`
+- 🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — Full-stack news app: auth, article authoring with a draft → published → archived workflow, live feed, debounced search, saved articles, comments and offline cache. **Clean Architecture + BLoC**, with Firestore/Storage **security rules unit-tested in CI**. `Flutter` · `Dart` · `Firebase`
 - 🎮 **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — Mobile-first game with an AI opponent, a custom design system, and an extra *Infinity* mode. iOS / Android / Web. Video demos in the README. `Expo` · `TypeScript`
 - 🧪 **[Wordle](https://github.com/Qweffy/wordle-game)** — Wordle-style game with a pure state-transition engine kept separate from the UI, plus test coverage. iOS / Android / Web. `React Native` · `TypeScript`
 
@@ -24,6 +25,10 @@ Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile a
 
 ## 📚 More projects
 
+- **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API generating and storing product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
+- **[JSONPlaceholderApp](https://github.com/Qweffy/JSONPlaceholderApp)** — Offline-first posts app: queued offline actions that auto-sync on reconnect, with tests. `React Native`
+- **[Movies App](https://github.com/Qweffy/MoviesApp)** — TMDB browser with search, trailers, watchlist and offline support. `Expo`
+- **[Bike Stations](https://github.com/Qweffy/bike-stations-rn)** — Live bike-share availability with per-station error handling and skeleton loading. `React Native` · `Redux Toolkit`
 - **[Instagram Clone](https://github.com/Qweffy/InstagramClone)** — API-fed feed with pagination, tab navigation and image fallbacks. `Expo`
 - **[DestinationsRN](https://github.com/Qweffy/DestinationsRN)** — Travel app using Redux Toolkit, RTK Query and Normalizr for normalized state. `React Native`
 - **[My Podcast App](https://github.com/Qweffy/my-podcast-app)** — Podcast SPA with React + Vite, TanStack Query and offline persistence. `React`
