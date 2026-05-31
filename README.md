@@ -1,8 +1,6 @@
 # Hi, I'm Nico 👋
 
-React Native & TypeScript developer. I also build native and cross-platform
-apps with Swift / SwiftUI and Tauri. I care about clean state modeling,
-tested logic, and high-fidelity UI.
+Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile architecture, performance, and blockchain-enabled products. Built and scaled crypto and FinTech applications, including multi-chain wallets with 100k+ users, from 0→production. Strong experience with Expo/EAS pipelines, OTA updates, CI/CD automation, and crash monitoring, delivering secure, reliable releases. I focus on scalable architectures, high-quality testing, and fast iteration in startup environments.
 
 📫 **nicolasmastakas@gmail.com**
 
