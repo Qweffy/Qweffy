@@ -17,7 +17,7 @@ Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile a
 > The best places to see how I structure code, test, and build UI.
 
 - 🏆 **[Tether WDK Wallet](https://github.com/Qweffy/tether-wdk-challenge)** — Non-custodial mobile wallet built on the Tether Wallet Development Kit. Biometric unlock, Secure-Enclave key storage, multi-asset (USD₮ / BTC / XAU₮). `React Native` · `TypeScript`
-- 🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — Full-stack news app: auth, article authoring with a draft → published → archived workflow, live feed, debounced search, saved articles, comments and offline cache. **Clean Architecture + BLoC**, with Firestore/Storage **security rules unit-tested in CI**. `Flutter` · `Dart` · `Firebase`
+- 🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — Full-stack news app with an **AI assistant (RAG)**: ask the news in natural language and get answers *grounded in the articles* with tappable citations — local embeddings for semantic retrieval + an LLM (Groq) via a Cloud Function. Plus auth, a draft → published → archived workflow, live feed, saved articles, comments and offline cache. **Clean Architecture + BLoC**, security rules unit-tested in CI. `Flutter` · `Dart` · `Firebase` · `RAG`
 - 🎮 **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — Mobile-first game with an AI opponent, a custom design system, and an extra *Infinity* mode. iOS / Android / Web. Video demos in the README. `Expo` · `TypeScript`
 - 🧪 **[Wordle](https://github.com/Qweffy/wordle-game)** — Wordle-style game with a pure state-transition engine kept separate from the UI, plus test coverage. iOS / Android / Web. `React Native` · `TypeScript`
 
