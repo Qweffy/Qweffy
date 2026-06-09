@@ -1,6 +1,6 @@
 # Hi, I'm Nico 👋
 
-Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile architecture, performance, and blockchain-enabled products. Built and scaled crypto and FinTech applications, including multi-chain wallets with 100k+ users, from 0→production. Strong experience with Expo/EAS pipelines, OTA updates, CI/CD automation, and crash monitoring, delivering secure, reliable releases. I focus on scalable architectures, high-quality testing, and fast iteration in startup environments.
+Product Engineer & Full-Stack Software Engineer with 6+ years shipping production software end-to-end across mobile, web, and backend. I build full products as a one-person team, using Claude Code and Cursor as a force multiplier. Currently Senior Engineer at Input Output (IOHK); previously scaled a FinTech consumer app to 100K+ users at Bolster as one of four founding engineers, and co-founded a crypto-education startup (team of 6).
 
 📫 **nicolasmastakas@gmail.com**
 
