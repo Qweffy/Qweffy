@@ -25,6 +25,7 @@ Senior React Native / Web3 engineer (6+ years, Expo/EAS) specialized in mobile a
 
 ## 📚 More projects
 
+- **[Spotify Genre Sorter](https://github.com/Qweffy/spotify-genre-sorter)** — Python CLI that auto-sorts your Spotify Liked Songs into genre/vibe playlists, with a dry-run preview and multi-membership bucketing — built on only the currently-supported Web API endpoints. `Python` · `Spotify API`
 - **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API generating and storing product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
 - **[JSONPlaceholderApp](https://github.com/Qweffy/JSONPlaceholderApp)** — Offline-first posts app: queued offline actions that auto-sync on reconnect, with tests. `React Native`
 - **[Movies App](https://github.com/Qweffy/MoviesApp)** — TMDB browser with search, trailers, watchlist and offline support. `Expo`
