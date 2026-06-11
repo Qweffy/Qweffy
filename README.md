@@ -28,14 +28,9 @@ Product Engineer & Full-Stack Software Engineer with 6+ years shipping productio
 - **[Spotify Genre Sorter](https://github.com/Qweffy/spotify-genre-sorter)** — Python CLI that auto-sorts your Spotify Liked Songs into genre/vibe playlists, with a dry-run preview and multi-membership bucketing — built on only the currently-supported Web API endpoints. `Python` · `Spotify API`
 - **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API generating and storing product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
 - **[JSONPlaceholderApp](https://github.com/Qweffy/JSONPlaceholderApp)** — Offline-first posts app: queued offline actions that auto-sync on reconnect, with tests. `React Native`
-- **[Movies App](https://github.com/Qweffy/MoviesApp)** — TMDB browser with search, trailers, watchlist and offline support. `Expo`
-- **[Bike Stations](https://github.com/Qweffy/bike-stations-rn)** — Live bike-share availability with per-station error handling and skeleton loading. `React Native` · `Redux Toolkit`
-- **[Instagram Clone](https://github.com/Qweffy/InstagramClone)** — API-fed feed with pagination, tab navigation and image fallbacks. `Expo`
 - **[DestinationsRN](https://github.com/Qweffy/DestinationsRN)** — Travel app using Redux Toolkit, RTK Query and Normalizr for normalized state. `React Native`
-- **[My Podcast App](https://github.com/Qweffy/my-podcast-app)** — Podcast SPA with React + Vite, TanStack Query and offline persistence. `React`
-- **[Fake Store API](https://github.com/Qweffy/FakeStoreApi)** — Products page with infinite-scroll pagination and cart. `Expo`
 
-Smaller exercises and learning projects live across my [other repositories](https://github.com/Qweffy?tab=repositories).
+Smaller apps, clones and learning exercises live across my [other repositories](https://github.com/Qweffy?tab=repositories).
 
 ---
 
