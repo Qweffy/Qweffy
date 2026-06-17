@@ -17,7 +17,7 @@ Senior Product Engineer building AI-native products end-to-end across mobile, we
 > Production systems that use LLMs, RAG, and vision to do real work — not demos.
 
 - 🧾 **[Settle](https://github.com/Qweffy/settle)** — AI-powered bill review for waste haulers. Claude Vision reads invoices, flags anomalies against vendor history, and routes exceptions through a human-in-the-loop approval flow. [Live demo →](https://settle-lyart.vercel.app) `Next.js` · `TypeScript` · `Claude` · `Neon` · `Drizzle`
-- 📡 **[Hiring Radar](https://github.com/Qweffy/hiring-radar)** — Job-hunting radar over HN *Who is hiring?* threads. Hybrid semantic+FTS search (recall@10: **0.52** vs 0.28 for semantic-only), pgvector HNSW index, local embeddings, structured LLM extraction. `Next.js` · `TypeScript` · `pgvector` · `Groq` · `Neon`
+- 📡 **[Hiring Radar](https://github.com/Qweffy/hiring-radar)** — AI-native radar over HN *Who is hiring?* threads. An autonomous **matching agent** (hand-rolled tool-use loop, persisted resumable trace) shortlists roles against your profile; **hybrid semantic + full-text search** (recall@10 **0.52** vs 0.28 semantic-only — pgvector HNSW + RRF fusion); an incremental **Inngest** pipeline; and an **MCP server** to query it from Claude Desktop. [Live demo →](https://hiring-radar.vercel.app) `Next.js` · `TypeScript` · `pgvector` · `MCP` · `Neon`
 - 🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — Full-stack news app with an **Ask AI** feature: ask the news in natural language, get answers *grounded in the articles* with tappable citations — local embeddings + Groq via a Cloud Function. Clean Architecture + BLoC, security rules tested in CI. `Flutter` · `Dart` · `Firebase` · `RAG`
 
 ---
@@ -31,7 +31,6 @@ Senior Product Engineer building AI-native products end-to-end across mobile, we
 ## 🎮 Games & UI experiments
 
 - 🎮 **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — Mobile-first game with an AI opponent, a custom design system, and an extra *Infinity* mode. iOS / Android / Web. Video demos in the README. `Expo` · `TypeScript`
-- 🧪 **[Wordle](https://github.com/Qweffy/wordle-game)** — Wordle clone with a pure state-transition engine decoupled from the UI, plus test coverage. iOS / Android / Web. `React Native` · `TypeScript`
 
 ---
 
@@ -39,8 +38,6 @@ Senior Product Engineer building AI-native products end-to-end across mobile, we
 
 - **[Spotify Genre Sorter](https://github.com/Qweffy/spotify-genre-sorter)** — Python CLI that auto-sorts your Spotify Liked Songs into genre/vibe playlists, with a dry-run preview and multi-membership bucketing. `Python` · `Spotify API`
 - **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API generating and storing product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
-- **[JSONPlaceholderApp](https://github.com/Qweffy/JSONPlaceholderApp)** — Offline-first posts app: queued offline actions that auto-sync on reconnect, with tests. `React Native`
-- **[DestinationsRN](https://github.com/Qweffy/DestinationsRN)** — Travel app using Redux Toolkit, RTK Query and Normalizr for normalized state. `React Native`
 
 Smaller apps, clones and learning exercises live across my [other repositories](https://github.com/Qweffy?tab=repositories).
 
