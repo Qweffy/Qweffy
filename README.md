@@ -34,6 +34,10 @@ Buenos Aires · Remote (US/EU)
 **~90% of cloud-vision accuracy at $0, fully offline** — QLoRA fine-tune (80% vs 72% base), published to HF Hub. · [HF model →](https://huggingface.co/Qweffy/shoebox-receipts-qwen3b)  
 `Python` · `PaddleOCR` · `Ollama` · `MLX` · `scikit-learn`
 
+**[Rubric](https://github.com/Qweffy/rubric)** — CI for prompts · golden sets + LLM-as-judge with calibration  
+**Fails the PR when a prompt or agent change makes the output worse** — judge calibrated to Cohen's κ 0.81. · [Live demo →](https://rubric-phi.vercel.app)  
+`TypeScript` · `Next.js` · `Turso` · `Groq` · `GitHub Actions`
+
 **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — full-stack news app with an **Ask AI** feature  
 **Answers grounded in the articles with tappable citations** (RAG) — local embeddings + Groq via a Cloud Function. Clean Architecture + BLoC, rules tested in CI.  
 `Flutter` · `Dart` · `Firebase` · `RAG`
