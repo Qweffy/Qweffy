@@ -1,14 +1,19 @@
-# Hi, I'm Nico 👋
+<div align="center">
 
-Senior Product Engineer building AI-native products end-to-end across mobile, web, and backend. I use LLMs, RAG, and Claude Code as a force multiplier to ship faster. Currently Senior Engineer at Input Output (IOHK); previously scaled a FinTech consumer app to 100K+ users at Bolster as one of four founding engineers, and co-founded a crypto-education startup (team of 6).
+# Nico Mastakas
 
-📫 **nicolasmastakas@gmail.com**
+**Senior Product Engineer** — AI-native products, end-to-end · LLMs · RAG · Claude Code
+
+Buenos Aires · Remote (US/EU)
+
+<a href="mailto:nicolasmastakas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/Qweffy"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
 
 ---
 
-## ⭐ My own product
-
-- **[TodayOnly](https://github.com/Qweffy/TodayOnly)** — A daily task manager that *only* manages today. Two sections (**Must Do** / **Bonus**), nothing carries over automatically, and if a task takes under 5 minutes it tells you: *"Do it now."* Native **SwiftUI + SwiftData** on macOS and **Tauri** (Rust) on Windows. Built it for myself — might be useful for you too.
+6+ years shipping production software end-to-end across mobile, web, and backend. Senior Engineer at **Input Output (IOHK)**; previously a founding engineer scaling a FinTech app to **100K+ users** at Bolster, and co-founder of a crypto-education startup. I build full products solo, with LLMs, RAG, and Claude Code as a force multiplier.
 
 ---
 
@@ -16,33 +21,45 @@ Senior Product Engineer building AI-native products end-to-end across mobile, we
 
 > Production systems that use LLMs, RAG, and vision to do real work — not demos.
 
-- 🧾 **[Settle](https://github.com/Qweffy/settle)** — AI-powered bill review for waste haulers. Claude Vision reads invoices, flags anomalies against vendor history, and routes exceptions through a human-in-the-loop approval flow. [Live demo →](https://settle-lyart.vercel.app) `Next.js` · `TypeScript` · `Claude` · `Neon` · `Drizzle`
-- 📡 **[Hiring Radar](https://github.com/Qweffy/hiring-radar)** — AI-native radar over HN *Who is hiring?* threads. An autonomous **matching agent** that **remembers across runs** — long-term memory with semantic recall + decay, so each scan skips what you already dismissed and learns your preferences; **hybrid semantic + full-text search** (recall@10 **0.52** vs 0.28 semantic-only — pgvector HNSW + RRF fusion); an incremental **Inngest** pipeline; and an **MCP server** to query it from Claude Desktop. [Live demo →](https://hiring-radar.vercel.app) `Next.js` · `TypeScript` · `pgvector` · `MCP` · `Neon`
-- 🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — Full-stack news app with an **Ask AI** feature: ask the news in natural language, get answers *grounded in the articles* with tappable citations — local embeddings + Groq via a Cloud Function. Clean Architecture + BLoC, security rules tested in CI. `Flutter` · `Dart` · `Firebase` · `RAG`
+🧾 **[Settle](https://github.com/Qweffy/settle)** — AI bill review for waste haulers · Claude Vision + human-in-the-loop  
+**Flags hidden markups in fuel/tipping invoices, gated by an approval queue.** · [Live demo →](https://settle-lyart.vercel.app)  
+`Next.js` · `TypeScript` · `Claude` · `Neon` · `Drizzle`
+
+📡 **[Hiring Radar](https://github.com/Qweffy/hiring-radar)** — autonomous matching agent + long-term memory · hybrid semantic + full-text search  
+**recall@10 0.52 vs 0.28 semantic-only** (pgvector HNSW + RRF) — Inngest pipeline, MCP server. · [Live demo →](https://hiring-radar.vercel.app)  
+`Next.js` · `TypeScript` · `pgvector` · `MCP` · `Neon`
+
+🧠 **[Shoebox](https://github.com/Qweffy/shoebox)** — 100% on-device receipt digitizer · OCR + fine-tuned local model  
+**~90% of cloud-vision accuracy at $0, fully offline** — QLoRA fine-tune (80% vs 72% base), published to HF Hub. · [HF model →](https://huggingface.co/Qweffy/shoebox-receipts-qwen3b)  
+`Python` · `PaddleOCR` · `Ollama` · `MLX` · `scikit-learn`
+
+🗞️ **[Daily News](https://github.com/Qweffy/flutter-firebase-news-app)** — full-stack news app with an **Ask AI** feature  
+**Answers grounded in the articles with tappable citations** (RAG) — local embeddings + Groq via a Cloud Function. Clean Architecture + BLoC, rules tested in CI.  
+`Flutter` · `Dart` · `Firebase` · `RAG`
 
 ---
 
-## 🚀 Featured work
+## 🛠️ Other notable work
 
-- 🏆 **[Tether WDK Wallet](https://github.com/Qweffy/tether-wdk-challenge)** — Non-custodial mobile wallet built on the Tether Wallet Development Kit. Biometric unlock, Secure-Enclave key storage, multi-asset (USD₮ / BTC / XAU₮). `React Native` · `TypeScript`
-
----
-
-## 🎮 Games & UI experiments
-
-- 🎮 **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — Mobile-first game with an AI opponent, a custom design system, and an extra *Infinity* mode. iOS / Android / Web. Video demos in the README. `Expo` · `TypeScript`
+- ⭐ **[TodayOnly](https://github.com/Qweffy/TodayOnly)** — a daily task manager that *only* manages today. Native **SwiftUI + SwiftData** (macOS) and **Tauri/Rust** (Windows). My own product.
+- 🏆 **[Tether WDK Wallet](https://github.com/Qweffy/tether-wdk-challenge)** — non-custodial mobile wallet on the Tether WDK. Biometric unlock, Secure-Enclave key storage, multi-asset. `React Native`
+- 🎮 **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — mobile-first game with an AI opponent, a custom design system, and an *Infinity* mode. iOS / Android / Web. `Expo`
 
 ---
 
-## 📚 More projects
+## 📚 More
 
-- **[Spotify Genre Sorter](https://github.com/Qweffy/spotify-genre-sorter)** — Python CLI that auto-sorts your Spotify Liked Songs into genre/vibe playlists, with a dry-run preview and multi-membership bucketing. `Python` · `Spotify API`
-- **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API generating and storing product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
+- **[Spotify Genre Sorter](https://github.com/Qweffy/spotify-genre-sorter)** — Python CLI that auto-sorts Liked Songs into genre/vibe playlists, dry-run preview + multi-membership bucketing. `Python`
+- **[ProductSequenceAPI](https://github.com/Qweffy/ProductSequenceAPI)** — REST API for product-ID subsequences. `Node.js` · `Express` · `MongoDB` · `Docker` · `JWT` · `Jest`
 
 Smaller apps, clones and learning exercises live across my [other repositories](https://github.com/Qweffy?tab=repositories).
 
 ---
 
-## 🎧 Now playing
+<div align="center">
+
+### 🎧 Now playing
 
 [![Spotify](https://novatorem-xi-weld.vercel.app/api/spotify)](https://open.spotify.com/user/i9mg7d25h2kcnr6yjeu2h7hox)
+
+</div>
