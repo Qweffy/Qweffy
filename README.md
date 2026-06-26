@@ -6,7 +6,7 @@
 
 Buenos Aires · Remote (US/EU)
 
-<a href="https://nicomastakas.com"><img src="https://img.shields.io/badge/Website-nicomastakas.com-2563EB?logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://nicomastakas.com"><img src="https://img.shields.io/badge/nicomastakas.com-6D28D9?logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/nicomastakas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:nicolasmastakas@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/Qweffy"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
