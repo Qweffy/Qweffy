@@ -47,10 +47,10 @@ Buenos Aires · Remote (US/EU)
 
 ## Other notable work
 
+- **[LedgerBridge](https://github.com/Qweffy/ledgerbridge)** — two-way invoice sync (internal ↔ **QuickBooks Online**) built to survive out-of-order & duplicate webhooks: webhook-as-ping + refetch, idempotent writes, dead-letter & conflict tracking, live operator dashboard. [Live →](https://ledgerbridge-web.vercel.app) · `TypeScript` · `Fastify` · `Drizzle` · `Next.js`
 - **[nicomastakas.com](https://github.com/Qweffy/nicomastakas-portfolio)** — this portfolio site, notable for a from-scratch **cookieless, first-party analytics** system (own collector → Neon → private dashboard), no third-party tracker. [Live →](https://nicomastakas.com) · `Next.js` · `TypeScript` · `MDX` · `Neon`
 - **[TodayOnly](https://github.com/Qweffy/TodayOnly)** — a daily task manager that *only* manages today. Native **SwiftUI + SwiftData** (macOS) and **Tauri/Rust** (Windows). My own product.
 - **[Tether WDK Wallet](https://github.com/Qweffy/tether-wdk-challenge)** — non-custodial mobile wallet on the Tether WDK. Biometric unlock, Secure-Enclave key storage, multi-asset. `React Native`
-- **[Tic Tac Toe](https://github.com/Qweffy/TicTacToe)** — mobile-first game with an AI opponent, a custom design system, and an *Infinity* mode. iOS / Android / Web. `Expo`
 
 ---
 
